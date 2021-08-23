@@ -1,0 +1,2 @@
+# KUSER_SHARED_DATA
+KUSER_SHARED_DATA structure parse
